@@ -13,10 +13,11 @@ export class RadialProgress extends Component {
 
     public get progress(): number {
         // TODO: 取得進度數值 (0 ~ 1)
-        return 0;
+        return this.sprite.fillRange;
     }
 
     public set progress(value: number) {
         // TODO: 設定進度
+        this.sprite.fillRange = value;
     }
 }
