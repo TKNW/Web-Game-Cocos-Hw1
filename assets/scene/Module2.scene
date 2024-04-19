@@ -1468,16 +1468,16 @@
       "__uuid__": "45828f25-b50d-4c52-a591-e19491a62b8c@f9941",
       "__expectedType__": "cc.SpriteFrame"
     },
-    "_type": 0,
-    "_fillType": 0,
+    "_type": 3,
+    "_fillType": 2,
     "_sizeMode": 0,
     "_fillCenter": {
       "__type__": "cc.Vec2",
-      "x": 0,
-      "y": 0
+      "x": 0.5,
+      "y": 0.5
     },
-    "_fillStart": 0,
-    "_fillRange": 0,
+    "_fillStart": 0.25,
+    "_fillRange": -1,
     "_isTrimmedMode": true,
     "_useGrayscale": false,
     "_atlas": null,
