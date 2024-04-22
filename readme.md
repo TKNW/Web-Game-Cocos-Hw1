@@ -29,15 +29,15 @@
 
 ## 題組 4 跑分
 
--   [ ] 4-1 NumberFormatter： displayDecimal
--   [ ] 4-2 NumberFormatter： displayDecimalZero
--   [ ] 4-3 NumberFormatter： maxDecimalLength
--   [ ] 4-4 NumberFormatter： displayThousands
--   [ ] 4-5 NumberFormatter： argumentText
--   [ ] 4-6 NumberFormatter： value
--   [ ] 4-7 RangeSlider： 功能實作
--   [ ] 4-8 RunningMeter： 可指定起始值與目標值，具備跑分功能
--   [ ] 4-9 RunningMeter： 結合 NumberFormatter、RangeSlider 功能
+-   [x] 4-1 NumberFormatter： displayDecimal
+-   [x] 4-2 NumberFormatter： displayDecimalZero
+-   [x] 4-3 NumberFormatter： maxDecimalLength
+-   [x] 4-4 NumberFormatter： displayThousands
+-   [x] 4-5 NumberFormatter： argumentText
+-   [x] 4-6 NumberFormatter： value
+-   [x] 4-7 RangeSlider： 功能實作
+-   [x] 4-8 RunningMeter： 可指定起始值與目標值，具備跑分功能
+-   [x] 4-9 RunningMeter： 結合 NumberFormatter、RangeSlider 功能
 
 ## 題組 5 前後循環 PageView
 
